@@ -1,3 +1,3 @@
-# ITPM_Y3S2
+# ITP
 Recycle App MERN 
 Campaign Management
